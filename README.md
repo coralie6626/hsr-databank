@@ -18,6 +18,7 @@ The `CharacterData` interface represents the data structure for character inform
 - **traceMaterials**: An array of `AscensionMaterial` objects representing trace materials related to the character.
 - **story**: A string containing the character's background story.
 
+## LightConeData Interface
 
 The `LightConeData` interface represents the data structure for light cone information in the Honkai Star Rail game. It defines the following properties:
 
