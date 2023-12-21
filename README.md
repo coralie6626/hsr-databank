@@ -29,3 +29,10 @@ The `LightConeData` interface represents the data structure for light cone infor
 - **story**: A string containing the light cone's background story.
 - **skill**: A string containing the light cone's skill description.
 
+## RelicData Interface
+
+The `RelicData` interface represents the data structure for relic information in the Honkai Star Rail game. It defines the following properties:
+
+- **name**: A string representing the relic's name.
+- **effect**: A string representing the effect of the relic.
+- **slots**: An array of `RelicSlot` objects representing the name and the story of the relic.
